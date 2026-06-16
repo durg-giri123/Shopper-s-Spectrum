@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# Shopper Spectrum
 
 
@@ -44,3 +45,7 @@ Customer Segmentation and Product Recommendation System.
 
 streamlit run app.py
 
+||||||| empty tree
+=======
+# Shopper-s-Spectrum
+>>>>>>> 279d69669d8a38ca6c0d578f9a03d634616b1aac
